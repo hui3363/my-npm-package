@@ -1,0 +1,8 @@
+{
+	"name": "@hui3363/my-npm-package",
+	"version": "0.1.1",
+	"main": "main.js",
+	"keywords": ["util"],
+	"license": "MIT",
+	"dependencies": {}	
+}
